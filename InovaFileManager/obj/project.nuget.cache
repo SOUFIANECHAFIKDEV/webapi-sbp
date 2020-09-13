@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D3iIcH0rs+uYfV4bk9xVrpk3r8gDBX8EnTyBKrgsssxsWPWU1RQRbDUAZ/4sHD6v6ZNJdZOXu0E4LkBD0+sZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schafik\\Desktop\\SBP\\webapi-sbp\\InovaFileManager\\SBPFileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\schafik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

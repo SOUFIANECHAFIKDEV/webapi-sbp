@@ -1,0 +1,12 @@
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\bin\Debug\netcoreapp2.1\SBPAuthentification.deps.json
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\bin\Debug\netcoreapp2.1\SBPAuthentification.runtimeconfig.json
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\bin\Debug\netcoreapp2.1\SBPAuthentification.runtimeconfig.dev.json
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\bin\Debug\netcoreapp2.1\SBPAuthentification.dll
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\bin\Debug\netcoreapp2.1\SBPAuthentification.pdb
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.csprojAssemblyReference.cache
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.csproj.CoreCompileInputs.cache
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.AssemblyInfoInputs.cache
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.AssemblyInfo.cs
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.dll
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.pdb
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InoAuthentification\obj\Debug\netcoreapp2.1\SBPAuthentification.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\bin\Debug\netcoreapp2.1\SBPFileManager.deps.json
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\bin\Debug\netcoreapp2.1\SBPFileManager.dll
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\bin\Debug\netcoreapp2.1\SBPFileManager.pdb
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\obj\Debug\netcoreapp2.1\SBPFileManager.csproj.CoreCompileInputs.cache
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\obj\Debug\netcoreapp2.1\SBPFileManager.AssemblyInfoInputs.cache
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\obj\Debug\netcoreapp2.1\SBPFileManager.AssemblyInfo.cs
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\obj\Debug\netcoreapp2.1\SBPFileManager.dll
+C:\Users\schafik\Desktop\SBP\webapi-sbp\InovaFileManager\obj\Debug\netcoreapp2.1\SBPFileManager.pdb

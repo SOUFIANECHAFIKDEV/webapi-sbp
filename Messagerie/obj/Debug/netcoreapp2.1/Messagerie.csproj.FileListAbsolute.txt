@@ -1,0 +1,6 @@
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\bin\Debug\netcoreapp2.1\Messagerie.deps.json
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\bin\Debug\netcoreapp2.1\Messagerie.dll
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\obj\Debug\netcoreapp2.1\Messagerie.csprojAssemblyReference.cache
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\obj\Debug\netcoreapp2.1\Messagerie.csproj.CoreCompileInputs.cache
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\obj\Debug\netcoreapp2.1\Messagerie.AssemblyInfoInputs.cache
+C:\Users\Nejma\Desktop\ecolave\webapi-ecl\Messagerie\obj\Debug\netcoreapp2.1\Messagerie.AssemblyInfo.cs

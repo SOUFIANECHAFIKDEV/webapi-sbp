@@ -1,0 +1,9 @@
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\bin\Release\netcoreapp2.1\InoMessagerie.deps.json
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\bin\Release\netcoreapp2.1\InoMessagerie.dll
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\bin\Release\netcoreapp2.1\InoMessagerie.pdb
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.csprojAssemblyReference.cache
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.csproj.CoreCompileInputs.cache
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.AssemblyInfoInputs.cache
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.AssemblyInfo.cs
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.dll
+C:\Users\Taleb\Documents\Ecolave\webapi-ecl\Messagerie\obj\Release\netcoreapp2.1\InoMessagerie.pdb
